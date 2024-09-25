@@ -37,6 +37,14 @@ body {
 .webicon{
   width: 2.5rem;
   height: 2.5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+
+
+  
 
 }
 #modalView,
@@ -257,6 +265,7 @@ main {
 }
 .secBtn {
   padding: 1rem;
+
 }
 a {
   text-decoration: none;
