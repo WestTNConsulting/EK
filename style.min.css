@@ -34,6 +34,11 @@ body {
   width: 1.5rem;
   height: 1.5rem;
 }
+.webicon{
+  width: 2.5rem;
+  height: 2.5rem;
+
+}
 #modalView,
 #copyView,
 #qrView,
@@ -149,7 +154,7 @@ main {
   align-items: center;
 }
 #profile img {
-  width: 7rem;
+  width: 9rem;
   height: 7rem;
   border-radius: 100%;
   text-align: center;
@@ -159,7 +164,7 @@ main {
   -ms-user-select: none;
   user-select: none;
   margin-top: -4.5rem;
-  width: 10rem;
+  width: 11rem;
   height: 10rem;
   border-radius: 100%;
   box-sizing: content-box;
